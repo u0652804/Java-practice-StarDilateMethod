@@ -1,21 +1,14 @@
-# Java_pritice1
+# Java-pritice1 StarDilateMethod
+
+# Describe
 
 print below :
 
-____*____
+![print](/designDocument/print.png)
 
-___*_*___
+# Method 
 
-__*_*_*__
+Use dilation method to do.
 
-_*_*_*_*_
-
-*_*_*_*_*
-
-_*_*_*_*_
-
-__*_*_*__
-
-___*_*___
-
-____*____
+# Design
+![design](/designDocument/StarDilateMethod_design.png)
