@@ -14,4 +14,4 @@ Use dilation method to do.
 ![design](/designDocument/StarDilateMethod_design.png)
 
 # Demo
-![design](/designDocument/demo.png)
+![demo](/designDocument/demo.png)
