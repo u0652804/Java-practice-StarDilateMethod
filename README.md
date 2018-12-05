@@ -1,4 +1,4 @@
-# Java-pritice1 StarDilateMethod
+# Java-practice StarDilateMethod
 
 # Describe
 
